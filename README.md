@@ -7,5 +7,5 @@ I'm Adnan, a computer application student currenly learning CI/CD and testing at
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/adnanamir), [Email](adnanamirrncgmail.com)
 
-# #Fun Facts :
+###Fun Facts :
 
