@@ -6,6 +6,3 @@ I'm Adnan, a computer application student currently learning CI/CD and testing a
 - 🌱 I work with Eclipse as IDE and using Git-Bash CLI for git modifications.
 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adnanamir), [Email](mailto:adnanamirrnc@gmail.com)
-
-### Fun Facts :
-
